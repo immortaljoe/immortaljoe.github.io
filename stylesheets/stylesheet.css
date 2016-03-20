@@ -77,6 +77,13 @@ a:hover {
   margin-top: 0;
   margin-bottom: 0.1rem; }
 
+.project-name2 {
+  margin-top: 0;
+  margin-bottom: 0.1rem; 
+  font-size: 20px;
+}
+
+
 .header-link  {
     color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
