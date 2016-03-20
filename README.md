@@ -1,16 +1,10 @@
-A [Jekyll](https://jekyllrb.com/) blog template made for simple, readable snippets of your brain drippings.
+#How to create post
 
-[DEMO](http://adueck.github.io/cayman-blog/)
+* Clone the repository.
 
-To get this going follow these simple steps:
+* Create a file in the _posts directory and name it according to the following format: ```YEAR-MONTH-DAY-title.MARKUP```. Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. For example, the following are examples of valid post filenames: `2011-12-31-new-years-eve-is-awesome.md `,`2012-09-12-how-to-write-a-blog.textile`. [More details about post](https://jekyllrb.com/docs/posts/)
 
-1. Fork, clone, or download the repository
-2. Edit <code>_config.yml</code>
-3. If you want, swap `img/cover.jpg` for your own header image
-3. Fill up the `_posts` folder with whatever you want to say
-4. run <code>jekyll build</code> and then <code>jekyll serve</code>  
-note: This will require the `jekyll-paginate` gem `$ gem install jekyll-paginate`
+* Commit to the Github
 
-You can easily host your blog for free on [GitHub Pages](https://pages.github.com/)
 
-I made this Jekyll theme by adapting and modifying the [Cayman Theme](https://github.com/jasonlong/cayman-theme) by [Jason Lang](https://github.com/jasonlong), which is licensed under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).
+
