@@ -27,3 +27,5 @@ Another important thing is the App. From the table, we could see that only three
 For the battery, the majority of the products still used the LiPo to power the whole drones. We think we can use the wireless charger to make it more flexible in the house. The solar board could also be embedded onto the drones. This will make possible that the drones could conduct a task for a long time. 
 
 In the support part, we found that the majority of the companies still use the conventional way such as telephone, email. Seldom of them use the online service. We use the Internet to more efficient provide the maintenance service for varies of users. For example, if we want to upgrade the software for the drones. The drones will download the software from the Internet and install automatically.
+
+Author: Yue Zhou
