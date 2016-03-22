@@ -6,19 +6,19 @@ title: Brief Marketing Research
 Our idea is to develop drones that could be considered as an intelligent housekeeper. In this project, I am responsible for the marketing research. Based on the analysis we extracted from the online resources, we found several companies has developed the similar products. But the majority of the products just focus on the basic functions (e.g. photographing) and modern design. We have found several online resource to make a brief market research of drones.
 
 ![Drone models](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/drones_models.png)
-(http://rc-drones-review.toptenreviews.com/)
+(Science Tech Robotics & RC RC Drones Review, (2016), Drones Comparison [ONLINE]. Available at: http://rc-drones-review.toptenreviews.com/ [Accessed 22 March 16].)
 
 ![Comparison of drones performance](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/drones_performance.png)
-(http://rc-drones-review.toptenreviews.com/)
+(Science Tech Robotics & RC RC Drones Review, (2016), Drones Comparison [ONLINE]. Available at: http://rc-drones-review.toptenreviews.com/ [Accessed 22 March 16].)
 
 ![Comparison of drones features](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/drones_features.png)
-(http://rc-drones-review.toptenreviews.com/)
+(Science Tech Robotics & RC RC Drones Review, (2016), Drones Comparison [ONLINE]. Available at: http://rc-drones-review.toptenreviews.com/ [Accessed 22 March 16].)
 
 ![Comparison of drones accessories and supplies](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/drones_supply.png)
-(http://rc-drones-review.toptenreviews.com/)
+(Science Tech Robotics & RC RC Drones Review, (2016), Drones Comparison [ONLINE]. Available at: http://rc-drones-review.toptenreviews.com/ [Accessed 22 March 16].)
 
-![Comparison of drones support service](https://github.com/immortaljoe/immortaljoe.github.io/blob/master/img/drones_support.png)
-(http://rc-drones-review.toptenreviews.com/)
+![Comparison of drones support service](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/drones_support.png)
+(Science Tech Robotics & RC RC Drones Review, (2016), Drones Comparison [ONLINE]. Available at: http://rc-drones-review.toptenreviews.com/ [Accessed 22 March 16].)
 
 As shown above, there is the table which makes the comparison between the different popular drones product. We can see that the majority of the drones could only last 25 minutes. That means they will be charged more frequently. Beside of this, seldom of them has the function for the flight planning. For our product, the artificial intelligence will be more efficient to automatically set the flight route. None of these models provide the intelligent control. Furthermore, they haven't designed any interfaces that could be compatible with other external things or devices.
 
