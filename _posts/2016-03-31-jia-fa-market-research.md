@@ -2,6 +2,7 @@
 layout: post
 title: Solutions to battery problems
 ---
+Since the use of drones by customers and companies has exploded over the past a couple of years, our team have made decision to innovate solutions on drones as Selfie Drone. I am acting as demo designer in our team. I am responsible for providing new solutions that have capacity to figure out problems exsiting in current solutions.
 
 Thought initial investigation involving with drones in market, the most crucial constraint on drones is the flying time. The most products have been designed to be powered by lithium battery. We have compared several top products in terms of battery life. Most products can only keep flying in the air for 10-15 minutes or even less. Only a few products can stay in the air for 25 minutes. The battery life seems far less than what customers are expecting. Many missions require drones to fly longer to record sensational events such as wedding party or anniversary celebration.
 
