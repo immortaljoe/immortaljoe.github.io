@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team Review: Member Strength and Responsibility
+title: Team Review of Member Strength and Responsibility
 ---
 Our team is formed by 6 postgraduate students from Computer Science or Software Engineering background, so it is obivious that the strength in this team is in software development (coding, alogrithms, testing, design). To identify the strength of the team and get a better understanding of all the team members, I start a questionaire to collect a self-reflection. And we first identify the strenghten by ourselved:
 <iframe width="600" height="220" src="https://docs.google.com/spreadsheets/d/16kEkOGpnBkRjiE0UK6biqz4-T-lRN99RyVG8CbKJK18/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
