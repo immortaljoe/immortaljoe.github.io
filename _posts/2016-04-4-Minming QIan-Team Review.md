@@ -8,5 +8,11 @@ Our team is formed by 6 postgraduate students from Computer Science or Software 
 The next task is to identify the responsibility of each team member due to the strength we clarified in last sheet. This will be shown in the next sheet.
 <iframe width="600" height="220" src="https://docs.google.com/spreadsheets/d/16kEkOGpnBkRjiE0UK6biqz4-T-lRN99RyVG8CbKJK18/pubhtml?gid=1474485662&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+The memorandum is shown below:
+<iframe width="600" height="320" src="https://docs.google.com/spreadsheets/d/16kEkOGpnBkRjiE0UK6biqz4-T-lRN99RyVG8CbKJK18/pubhtml?gid=1297276404&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+And the gap is shown in the next sheet:
+<iframe width="600" height="220" src="https://docs.google.com/spreadsheets/d/16kEkOGpnBkRjiE0UK6biqz4-T-lRN99RyVG8CbKJK18/pubhtml?gid=589393756&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 
 Author: Minming Qian, a1675754
