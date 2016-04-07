@@ -2,7 +2,7 @@
 layout: post
 title: Brief description for first prototype of eHousekeeper
 ---
-After a series of negotiation within our group, we have designed a primary prototype for ‘eHousekeeper’. This is the first prototype designed based on our brainstorming and market needs research. The eHousekeeper aims to provide services that could help customers to manage and monitor their home when customers are absent at home. The whole prototype consists of three systems: a. central control system implemented on mobile devices such as phone or tablet; b. monitoring and warning system embedded on a drone; c. executing system embedded on another drone.
+After a series of negotiation within our group, we have designed a primary prototype for 'eHousekeeper'. This is the first prototype designed based on our brainstorming and market needs research. The eHousekeeper aims to provide services that could help customers to manage and monitor their home when customers are absent at home. The whole prototype consists of three systems: a. central control system implemented on mobile devices such as phone or tablet; b. monitoring and warning system embedded on a drone; c. executing system embedded on another drone.
 
 The central control system would be an app on mobile device held by customer. The customer could keep controlling of eHousekeeper by sending instructions to monitoring and warning system using central control system.
 
