@@ -12,7 +12,7 @@ At the same time, we are also trying to build the user interface of the App. All
 
 The followed are our draft user interface design for the client side:
 
-![Log In](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png | width=250x)
+![Log In](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png =250)
 (Log in screen)
 
 ![Register](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png)
