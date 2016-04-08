@@ -12,7 +12,18 @@ At the same time, we are also trying to build the user interface of the App. All
 
 The followed are our draft user interface design for the client side:
 
-![Drone models](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/drones_models.png)
-(Science Tech Robotics & RC RC Drones Review, (2016), Drones Comparison [ONLINE]. Available at: http://rc-drones-review.toptenreviews.com/ [Accessed 22 March 16].)
+![Log In](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png)
+(Log in screen)
+
+![Register](https://github.com/immortaljoe/immortaljoe.github.io/blob/master/img/design/register.png)
+(Register screen)
+
+![Dashboard Sidebar](https://github.com/immortaljoe/immortaljoe.github.io/blob/master/img/design/controller.png)
+(Dashboard sidebar screen)
+
+![Dashboard Sidebar](https://github.com/immortaljoe/immortaljoe.github.io/blob/master/img/design/controller.png)
+(Dashboard sidebar screen)
+
+
 
 Author: Yue Zhou a1659152
