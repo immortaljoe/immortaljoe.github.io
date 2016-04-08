@@ -15,15 +15,15 @@ The followed are our draft user interface design for the client side:
 ![Log In](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png)
 (Log in screen)
 
-![Register](https://github.com/immortaljoe/immortaljoe.github.io/blob/master/img/design/register.png)
+![Register](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png)
 (Register screen)
 
-![Manual Control](https://github.com/immortaljoe/immortaljoe.github.io/blob/master/img/design/maunualcontrol.png)(Manual Control)
+![Manual Control](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/maunualcontrol.png)(Manual Control)
 
-![Dashboard Sidebar](https://github.com/immortaljoe/immortaljoe.github.io/blob/master/img/design/controller2.png)
+![Dashboard Sidebar](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/controller2.png)
 (Dashboard sidebar screen)
 
-![User Info](https://github.com/immortaljoe/immortaljoe.github.io/blob/master/img/design/userinfo.png)
+![User Info](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/userinfo.png)
 (User Info)
 
 
