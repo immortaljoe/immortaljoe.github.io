@@ -15,7 +15,7 @@ The followed are our draft user interface design for the client side:
 <div>
 	<div>
 		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png" alt="Log in" style="width: 40%;"/>
-		<div style="width: 40%;text-align: center;margin: 0px;">Log in screeen</div>
+		<div style="width: 40%;text-align: center;margin: 0px;position: aboslute; left: 0; bottom: 0;">Log in screeen</div>
 	</div>
 	<div>
 		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png" alt="Register" style="width: 40%;"/>
