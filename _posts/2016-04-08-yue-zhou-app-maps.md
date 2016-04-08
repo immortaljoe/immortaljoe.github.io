@@ -15,22 +15,14 @@ The followed are our draft user interface design for the client side:
 <center>
 <img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png" alt="Log in" style="width: 50%;"/>
 <img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png" alt="Register" style="width: 50%;"/>
-
+<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/maunualcontrol.png" alt="Maunal Control" style="width: 50%;"/>
+<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/controller2.png" alt="Dashboard Sidebar" style="width: 50%;"/>
+<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/userinfo.png" alt="User Info" style="width: 50%;"/>
 </center>
 
 
 <!-- ![Log In](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png =250)
 (Log in screen) -->
-
-(Register screen)
-
-![Manual Control](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/maunualcontrol.png)(Manual Control)
-
-![Dashboard Sidebar](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/controller2.png)
-(Dashboard sidebar screen)
-
-![User Info](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/userinfo.png)
-(User Info)
 
 
 
