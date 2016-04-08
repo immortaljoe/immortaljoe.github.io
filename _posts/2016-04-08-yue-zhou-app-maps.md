@@ -15,11 +15,11 @@ The followed are our draft user interface design for the client side:
 <div>
 	<div>
 		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png" alt="Log in" style="width: 40%;"/>
-		<div>Log in screeen</div>
+		<div style="width: 40%;text-align: center;">Log in screeen</div>
 	</div>
 	<div>
 		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png" alt="Register" style="width: 40%;"/>
-		<div>Register screen</div>
+		<div style="width: 40%;text-align: center;">Register screen</div>
 	</div>
 	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/maunualcontrol.png" alt="Maunal Control" style="width: 40%;"/>
 	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/controller2.png" alt="Dashboard Sidebar" style="width: 40%;"/>
