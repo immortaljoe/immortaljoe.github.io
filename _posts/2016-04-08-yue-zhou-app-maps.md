@@ -14,13 +14,14 @@ The followed are our draft user interface design for the client side:
 
 <center>
 <img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png" alt="Log in" style="width: 50%;"/>
+<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png" alt="Register" style="width: 50%;"/>
+
 </center>
 
 
 <!-- ![Log In](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png =250)
 (Log in screen) -->
 
-![Register](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png)
 (Register screen)
 
 ![Manual Control](https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/maunualcontrol.png)(Manual Control)
