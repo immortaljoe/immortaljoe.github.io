@@ -12,13 +12,16 @@ At the same time, we are also trying to build the user interface of the App. All
 
 The followed are our draft user interface design for the client side:
 
-<div>
-	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png" alt="Log in" style="width: 40%;"/>
-	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png" alt="Register" style="width: 40%;"/>
-	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/maunualcontrol.png" alt="Maunal Control" style="width: 40%;"/>
-	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/controller2.png" alt="Dashboard Sidebar" style="width: 40%;"/>
-	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/userinfo.png" alt="User Info" style="width: 40%;"/>
-	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/settings.png" alt="User Info" style="width: 40%;"/>
-</div>
+<center>
+	<div>
+		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png" alt="Log in" style="width: 40%;"/>
+		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png" alt="Register" style="width: 40%;"/>
+		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/maunualcontrol.png" alt="Maunal Control" style="width: 40%;"/>
+		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/controller2.png" alt="Dashboard Sidebar" style="width: 40%;"/>
+		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/userinfo.png" alt="User Info" style="width: 40%;"/>
+		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/settings.png" alt="User Info" style="width: 40%;"/>
+	</div>
+</center>
+
 
 Author: Yue Zhou a1659152
