@@ -18,6 +18,7 @@ The followed are our draft user interface design for the client side:
 	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/maunualcontrol.png" alt="Maunal Control" style="width: 40%;"/>
 	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/controller2.png" alt="Dashboard Sidebar" style="width: 40%;"/>
 	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/userinfo.png" alt="User Info" style="width: 40%;"/>
+	<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/settings.png" alt="User Info" style="width: 40%;"/>
 </div>
 
 Author: Yue Zhou a1659152
