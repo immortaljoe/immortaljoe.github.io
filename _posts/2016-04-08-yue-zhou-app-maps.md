@@ -1,27 +1,10 @@
 ---
 layout: post
-title: Draft of App Maps, Wireframe and Mockups
+title: App Map Design
 ---
 
-For the current stage, our team is focusing on the app maps, wireframe, and mockups design. Based on the analysis of the 'Jobs To Be Done' for our project, we transfer the key jobs to varies functions inside our project. We use the online collaborative design software 'Mural' to finish the entire [app maps](https://app.mural.ly/t/businessmen7998/m/businessmen7998/1459749605986).
+We have finalized the app maps of the whole project. The left part represents the hardware settings parts and right parts indicates the software part. As showed in the diagram, we use the tree structure to describe the functionality of each part.
 
-The app map is divided into two parts, the 'hardware' and 'software'. In the 'hardware' part, we draw several vital activities, such as 'buy our products', 'set the position of the wireless base', to describe what should user prepare before they use the whole system. In the software part, we defined some key functions in the software. The 'dashboard' is the center controller of the entire app. The user could access to different page through this page. Beside of this, we provide the interface that enables the user could define their customization activities. Furthermore, the 'Google glass' could be connected to the whole system to provide a more efficient accessibility.
+<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/mockup.png" alt="Log in" style="width: 40%;"/>
 
-
-At the same time, we are also trying to build the user interface of the App. All the page design in this part have followed the rules and criteria we defined in the 'app map' and 'wireframe.' We have studied several key design conception and try to design a highly user-friendly user interface.
-
-The followed are our draft user interface design for the client side:
-
-<center>
-	<div>
-		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/login.png" alt="Log in" style="width: 40%;"/>
-		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/register.png" alt="Register" style="width: 40%;"/>
-		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/maunualcontrol.png" alt="Maunal Control" style="width: 40%;"/>
-		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/controller2.png" alt="Dashboard Sidebar" style="width: 40%;"/>
-		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/userinfo.png" alt="User Info" style="width: 40%;"/>
-		<img src="https://raw.githubusercontent.com/immortaljoe/immortaljoe.github.io/master/img/design/settings.png" alt="User Info" style="width: 40%;"/>
-	</div>
-</center>
-
-
-Author: Yue Zhou a1659152
+Author: Yue Zhou, a1659152
